@@ -1,4 +1,4 @@
-# Streamlit Image Labelling - Blog post
+# Streamlit Image Labelling for Objectdetection
 
 streamlit-img-label is a graphical image annotation tool using streamlit. Annotations are saved as XML files in PASCAL VOC format or YoloFormat.
 
@@ -21,6 +21,7 @@ streamlit run app_3.py
 ## Reference
 
 - [streamlit-cropper](https://github.com/turner-anderson/streamlit-cropper)
+- [streamlit-img-label](https://github.com/lit26/streamlit-img-label)
 
 ## Donation
 
