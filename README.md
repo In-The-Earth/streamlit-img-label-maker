@@ -25,4 +25,4 @@ streamlit run app_3.py
 
 ## Donation
 
-If you think this project is cool, please consider [buying me a coffee](https://www.paypal.com/paypalme/TIANNINGL/)
+If you think this project is cool, please consider [buying coffee for my ref not me](https://www.paypal.com/paypalme/TIANNINGL/)
